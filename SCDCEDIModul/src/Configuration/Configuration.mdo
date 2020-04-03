@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f273961f-3f3e-48df-acef-557baad33df6">
+  <name>SCDCEDIModul</name>
+  <synonym>
+    <key>ru</key>
+    <value>SCDCEDIModul</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="69fd25c8-74f8-4297-b9fa-f242a984ccbb"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="78392eb6-c4fe-4a92-923c-be7dcb59de94"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="95f9cb3c-8d0f-4083-9f73-1831cab8406a"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="5d6fd11b-6a9e-4837-ae7a-cda5fa29dce0"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="6d7462ac-2a38-4896-aaff-d1b4b96a6b95"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="df7f9dd8-7a64-4e9f-b0a4-8730161010a9"/>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.14</compatibilityMode>
+  <languages uuid="ebcef5b8-79c3-4bea-b721-3afa22b6e89f">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
